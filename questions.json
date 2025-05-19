@@ -1,0 +1,90 @@
+{
+    "Mechanics": [
+      {
+        "id": 1,
+        "text": "A 2 kg ball is thrown upwards with an initial velocity of 20 m/s from ground level. What is the total energy of the system when the ball reaches its maximum height?",
+        "options": ["A) 10J", "B) 20J", "C) 100J", "D) 200J"],
+        "solution": {
+          "correctAnswer": "C",
+          "explanation": "KE =½ x2 x10^2 =100"
+        }
+      },
+      {
+        "id": 2,
+        "text": "A 5 kg object is initially at rest on the ground. It is then lifted vertically to a height of 20 meters and acquires a velocity of 3 m/s at that position. What is the change in the object's total mechanical energy during this process?",
+        "options": ["A) 14.5J", "B) 104.5J", "C) 1004.5J", "D) 981J"],
+        "solution": {
+          "correctAnswer": "C",
+          "explanation": "981+22.5=1,003.5J"
+        }
+      },
+      {
+        "id": 3,
+        "text": "A book rests on a table. Which of the following statements correctly describes an action-reaction pair involving the book?",
+        "options": [
+          "A) The Earth’s gravity pulls the book downward, and the table pushes the book upward",
+          "B) The book exerts a downward force on the table, and the table exerts an upward force on the book",
+          "C) The book pushes the table, and air resistance pushes back on the book",
+          "D) The table supports the book, and the book’s mass creates friction"
+        ],
+        "solution": {
+          "correctAnswer": "B",
+          "explanation": "A: The reaction to Earth’s gravity is the book pulling up on the Earth, not the table’s normal force.\nC: Air resistance is unrelated to the book-table interaction.\nD: The table’s force and friction are unrelated Third Law pairs."
+        }
+      },
+      {
+        "id": 4,
+        "text": "A rubber ball strikes a wall and bounces back. Which of the following statements is/are correct?",
+        "options": [
+          "A) The total momentum of the ball and the wall is conserved.",
+          "B) The momentum of the ball is conserved.",
+          "C) The momentum of the wall is conserved.",
+          "D) None of the above."
+        ],
+        "solution": {
+          "correctAnswer": "A",
+          "explanation": "A: Momentum is always conserved in a system if no external forces act. The ball-wall system is isolated during the collision, so their total momentum remains unchanged"
+        }
+      },
+      {
+        "id": 5,
+        "text": "A uniform 4-meter-long beam of negligible weight is balanced at its pivot. A 6 kg mass is placed 1 meter to the left of the pivot. What mass must be placed 2 meters to the right of the pivot to keep the beam in equilibrium?",
+        "options": ["A) 1.5 kg", "B) 3 kg", "C) 4.5 kg", "D) 6 kg"],
+        "solution": {
+          "correctAnswer": "B",
+          "explanation": "6× 9.81 × 1 = Mass × 2 × 9.81"
+        }
+      },
+      {
+        "id": 6,
+        "text": "A motorcyclist traveling at 90 km/h on a straight road suddenly notices a traffic signal 75 meters ahead turning red. If the rider's reaction time is 0.4 seconds, what is the minimum deceleration required to stop safely before the signal?",
+        "options": ["A) 3.15 m s⁻²", "B) 3.82 m s⁻²", "C) 4.25 m s⁻²", "D) 4.81 m s⁻²"],
+        "solution": {
+          "correctAnswer": "D",
+          "explanation": "90km/h= 25m/s\n25* 0.4 =10m      75-10=65m\n0=25^2 + 2a(65),    a= -4.81m s⁻²"
+        }
+      },
+      {
+        "id": 7,
+        "text": "An object at rest will remain at rest unless acted upon by:",
+        "options": ["A) A net force", "B) Gravity", "C) Friction", "D) An external agent"],
+        "solution": {
+          "correctAnswer": "A",
+          "explanation": ""
+        }
+      },
+      {
+        "id": 8,
+        "text": "According to Newton's second law, the acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its:",
+        "options": ["A) Mass", "B) Velocity", "C) Temperature", "D) Distance"],
+        "solution": {
+          "correctAnswer": "A",
+          "explanation": ""
+        }
+      },
+      {
+        "id": 9,
+        "text": "When a person pushes against a wall, the wall pushes back with an equal and opposite force. This demonstrates which law?",
+        "options": ["A) First Law", "B) Second Law", "C) Third Law", "D) Law of Conservation of Momentum"],
+        "solution": {
+          "
